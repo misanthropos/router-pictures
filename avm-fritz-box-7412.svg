@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="175.90572"
+     inkscape:zoom="2"
+     inkscape:cx="-30.09428"
      inkscape:cy="195.71198"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1156"
      inkscape:window-height="900"
-     inkscape:window-x="525"
-     inkscape:window-y="17"
+     inkscape:window-x="330"
+     inkscape:window-y="21"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -74,14 +74,6 @@
        height="111.125"
        x="100.54166"
        y="37.708332"
-       ry="2.5431327e-06" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#bcbcbc;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect821"
-       width="15.875"
-       height="15.875"
-       x="52.916664"
-       y="132.95833"
        ry="2.5431327e-06" />
     <text
        xml:space="preserve"
