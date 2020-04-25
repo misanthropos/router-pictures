@@ -14,7 +14,7 @@
    viewBox="0 0 87.3125 87.462502"
    version="1.1"
    id="svg8"
-   sodipodi:docname="avm-fritz-box-7312-no-trademarks.svg"
+   sodipodi:docname="avm-fritz-box-7312.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <defs
      id="defs2" />
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0000001"
-     inkscape:cx="137.65006"
-     inkscape:cy="106.78064"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="24.992864"
+     inkscape:cy="193.64355"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -82,16 +82,16 @@
        d="m 239.5528,460.17487 c -6.01229,-2.14049 -12.76399,-8.52841 -16.01808,-15.15503 l -2.80615,-5.71444 v -142 -142 l 2.42291,-4.92291 c 3.09098,-6.2803 8.99685,-12.18617 14.92793,-14.92792 l 4.64916,-2.14917 h 142.5 142.5 l 5.12335,2.70267 c 2.81784,1.48646 6.95606,4.78473 9.19603,7.32948 7.75245,8.80724 7.23889,-2.73101 6.94416,156.01667 l -0.26354,141.95118 -2.95395,5.33272 c -3.22668,5.82506 -6.60401,9.08107 -12.92958,12.46508 l -4.11647,2.2022 -142.5,0.17807 c -123.87096,0.15478 -143.0459,-0.0163 -146.67577,-1.3086 z"
        id="path3719"
        inkscape:connector-curvature="0"
-       style="fill:#483737"
+       style="fill:#0f0f0f;fill-opacity:1"
        transform="scale(0.26458333)" />
     <rect
-       style="fill:#280b0b;stroke-width:0.26458332"
+       style="fill:#000000;stroke-width:0.25417319"
        id="rect3721"
-       width="46.302078"
-       height="26.458328"
-       x="78.052086"
-       y="90.625"
-       ry="5.2916641" />
+       width="44.979168"
+       height="25.135416"
+       x="79.375"
+       y="91.947929"
+       ry="5.0270815" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#f4d7d7;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -188,14 +188,6 @@
        cx="111.78645"
        cy="115.09895"
        r="0.66145831" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#bcbcbc;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3823"
-       width="7.9375"
-       height="7.9375"
-       x="108.47916"
-       y="91.947914"
-       ry="2.5431316e-06" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:125%;font-family:Verdana;-inkscape-font-specification:Verdana;letter-spacing:0px;word-spacing:0px;fill:#f4d7d7;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
